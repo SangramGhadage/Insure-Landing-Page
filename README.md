@@ -10,7 +10,6 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -43,7 +42,3 @@ From this project I learned about media query and I also learnd that how can you
 ### Continued development
 
 I am still confused about media query so i am looking forward to learn more about it.
-
-## Acknowledgments
-
-I want to thank Florin Pop's youtube video of insure landing page it helps a lot and of course thanks to Google
